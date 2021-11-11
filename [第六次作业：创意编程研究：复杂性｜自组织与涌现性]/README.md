@@ -1,5 +1,5 @@
 # week7-hw6
-## psrticle system
+## 自组织与涌现性
 - 一个三体模型
 - attractor相互排斥，但与mover有微弱的吸引力
 - mover被attractor强烈吸引，mover之间微弱排斥
