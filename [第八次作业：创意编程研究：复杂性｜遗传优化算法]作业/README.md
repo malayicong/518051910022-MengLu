@@ -8,7 +8,7 @@
 - 初始化population和population1
 - 鼠标点击决定target位置
 - 两种不同遗传方法导致两个族群（颜色区分）的表现不同
-- ** conclusion：** 多次变换target位置发现population总是比population1先产生能够到达target的Frog个体；但在两个族群都出现到达target的个体后，population1的子代更加统一地朝向target运动，很多时候会比population更快
+- **conclusion：** 多次变换target位置发现population总是比population1先产生能够到达target的Frog个体；但在两个族群都出现到达target的个体后，population1的子代更加统一地朝向target运动，很多时候会比population更快
 
 
 https://user-images.githubusercontent.com/90953134/141931638-2390dfce-5aaa-49c7-8b4b-4ef08b1440d5.mp4
