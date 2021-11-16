@@ -8,3 +8,7 @@
 - 初始化population和population1
 - 鼠标点击决定target位置
 - 两种不同遗传方法导致两个族群（颜色区分）的表现不同
+
+
+https://user-images.githubusercontent.com/90953134/141931638-2390dfce-5aaa-49c7-8b4b-4ef08b1440d5.mp4
+
